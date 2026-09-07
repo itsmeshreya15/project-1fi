@@ -6,13 +6,13 @@ A responsive mobile-first web app implementing the **1Fi Marketplace** section w
 
 ## 🚀 Overview
 
-Built with React 19, TypeScript, and Tailwind CSS, this project integrates the **1Fi Marketplace** seamlessly into the existing Shop experience of the 1Fi app, matching its UI design, purple brand theme (`#6C2BD9`), and mobile layout.
+Built with React , TypeScript, and Tailwind CSS, this project integrates the **1Fi Marketplace** seamlessly into the existing Shop experience of the 1Fi app, matching its UI design, and mobile layout.
 
 ---
 
 ## ✨ Features
 
-- **Shop Tab Navigation**: Top Brands (blank), Nearby Stores (blank), and Marketplace (fully implemented).
+- **Shop Tab Navigation**: Top Brands , Nearby Stores, and Marketplace.
 - **Product Search & Filtering**: Instant search bar and category chips (*All*, *Electronics*, *Fashion*, *Home Appliances*).
 - **Product Card Grid**: 2-column card layout with pricing, discount badges, ratings, and starting EMI teasers.
 - **Product Details & Variants**: Color swatches, storage pills, and size chips with real-time price updates.
@@ -24,11 +24,11 @@ Built with React 19, TypeScript, and Tailwind CSS, this project integrates the *
 
 ## 🛠️ Tech Stack
 
-- **Framework**: React 19 + TypeScript
-- **Styling**: Tailwind CSS v4
-- **Routing**: React Router v7
+- **Framework**: React + TypeScript
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
 - **Testing**: Vitest + React Testing Library
-- **Build Tool**: Vite 8
+- **Build Tool**: Vite
 
 ---
 
